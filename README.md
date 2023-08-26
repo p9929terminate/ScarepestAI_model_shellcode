@@ -1,7 +1,7 @@
 # ScarepestAI_model_shellcode
 ## Code
 Committed code to access MLWIC CV model. 
-Sensor and mobile app code still proprietary 
+Sensor and mobile app code still proprietary (pending - Provisional Patent ID: 63172677)
 
 # Product Overview
 Yearly, pest animals destroy 10% of global maize, wheat, rice, cotton, potato, and soybean crops.1 In the US, large pest animals, especially white tailed deer and feral pigs, cause over 30 billion dollars of crop damage annually.1 Much of this damage is worsening yearly due to rapidly growing pest populations. As their populations grow, the need for effective crop protection is imminent. Existing solutions fail because of high maintenance, power consumption, and ineffectiveness. Most deterrence methods have not undergone innovation over the past 100 years; artificial intelligence can greatly enhance the efficiency of deterring pest animals. We developed a camera system using strobe lights and ultrasonic speakers to identify and deter pest animals. Pests are sensitive to strobing patterns and sound frequencies and deterred by the system. These features prevent pest damage by generating awareness of threats. ScarepestAi could modernize vertebrate pest control, and increase declining crop yields and farm revenues. 
